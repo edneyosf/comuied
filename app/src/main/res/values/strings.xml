@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bookmark_marker">Marcador</string>
+    <string name="bookmark_continue">Continuar</string>
+    <string name="resume_reading_continue">Continue</string>
+    <string name="verse_bottom_sheet_mark">Marcar</string>
+    <string name="verse_bottom_sheet_marked">Marcado</string>
+</resources>
